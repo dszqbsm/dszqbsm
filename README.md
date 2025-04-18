@@ -14,12 +14,12 @@
 
 #  🙋‍♂️ Hello
 
-🔒 Security Background: Have two to three years of learning experience in the field of network security and be interested in web security .
+🔒 Security Background: Have two to three years of learning experience in the field of network security and be interested in web security.
 
-💻 Golang Journey: Actively mastering Go fundamentals (goroutines, channels, GC), Gin frameworks, and microservices architecture. Building projects with Docker/Kubernetes for cloud-native deployment .
+💻 Golang Journey: Actively mastering Go fundamentals (goroutines, channels, GC), Gin frameworks, and microservices architecture. Building projects with Docker/Kubernetes for cloud-native deployment.
 
-👯 I’m looking to collaborate on learning golang, 大佬带带我
+👯 I’m looking to collaborate on learning golang, 大佬带带我.
 
-📫 How can you find me: Please follow the wechat official account (安全Gopher) .
+📫 How can you find me: Please follow the wechat official account (安全Gopher).
 
-😀 I enjoy running🏃, football⚽️, billiards🎱 and fitness🏋️. I love life🌞. Diligence and responsibility are my true colors. I always believe that hard work pays off💪. Let's cheer each other on!👨‍🎓
+😀 I enjoy running🏃, football⚽️, billiards🎱 and fitness🏋️. I love life🌞. Diligence and responsibility are my true colors. I always believe that hard work pays off💪. Let's cheer each other on!👨‍🎓.
