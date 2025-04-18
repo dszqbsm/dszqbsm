@@ -18,7 +18,7 @@
 
 💻 Golang Journey: Actively mastering Go fundamentals (goroutines, channels, GC), Gin frameworks, and microservices architecture. Building projects with Docker/Kubernetes for cloud-native deployment.
 
-👯 I’m looking to collaborate on learning golang, 大佬带带我.
+👯 I’m looking to collaborate on learning golang, 大佬带带我. This is my [personal blog](http://dszqbsm.github.io).
 
 📫 How can you find me: Please follow the wechat official account (安全Gopher).
 
